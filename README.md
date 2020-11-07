@@ -3,6 +3,12 @@ Simple calculator that uses infix to postfix conversion and postfix evaluation t
 
 #### WARNING: IT ONLY SUPPORT SINGLE DIGIT EXPRESSION RIGHT NOW Eg. ((1+2)/3)
 
+To run `ant run`
+
+To compile `ant compile`
+
+To build jar `ant jar`
+
 ## Screenshots
 
 ![screenshot1](/screen/1.png)
